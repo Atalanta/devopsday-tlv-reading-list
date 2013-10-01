@@ -18,4 +18,6 @@
 - In Search of Certainty - Mark Burguss
 - New Economics - Deming
 - Out of the Crisis - Deming
+- Web Operations: Keeping the Data On Time - John Allspaw, Jesse Robbins 
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley 
 
