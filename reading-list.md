@@ -13,4 +13,9 @@
 - Working Effectively With Legacy Code - Michael Feathers
 - Extreme Programming Explained - Kent Beck
 - “Mastery” - George Leonard
+- Start with Why: How Great Leaders Inspire Everyone to Take Action - Simon Sinek
+- The Phoenix Project - Gene Kim
+- In Search of Certainty - Mark Burguss
+- New Economics - Deming
+- Out of the Crisis - Deming
 
